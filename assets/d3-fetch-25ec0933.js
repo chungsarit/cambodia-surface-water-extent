@@ -1,0 +1,1 @@
+import{c as f}from"./d3-dsv-3ac754ad.js";function c(t){if(!t.ok)throw new Error(t.status+" "+t.statusText);return t.text()}function o(t,r){return fetch(t,r).then(c)}function a(t){return function(r,n,e){return arguments.length===2&&typeof n=="function"&&(e=n,n=void 0),o(r,n).then(function(u){return t(u,e)})}}var h=a(f);export{h as c};

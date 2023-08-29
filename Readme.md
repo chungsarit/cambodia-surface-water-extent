@@ -7,5 +7,5 @@ The surface water extents have been extracted from the Joint Research Centre (JR
 ## Development Environment
 <img src="./data/img/Vitejs-logo.svg" alt="Vite Logo" width="20"/> Vite + <img src="./data/img/React-logo.svg" alt="React Logo" width="20"/> React : for frontend development
 
-<img src="./data/img/flask-logo.svg" alt="Flask Logo" width="20"/> Flask + <img src="./data/img/google-earth-engine_logo.svg" alt="Google Earth Engine Logo" width="20"/> Google Earth Engine Python API : for retrieving surface water extent dataset from Google Earth Engine
+<img src="./data/img/google-earth-engine_logo.svg" alt="Google Earth Engine Logo" width="20"/> Google Earth Engine Python API : for retrieving surface water extent dataset and performing calculations
 
